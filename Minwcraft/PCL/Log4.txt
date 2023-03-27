@@ -1,0 +1,86 @@
+[19:27:47.202] [Start] 程序版本：Release 2.2.11（250）
+[19:27:47.204] [Start] 识别码：F1EE-04C9-A25E-54B3
+[19:27:47.204] [Start] 程序路径：E:\Minwcraft\
+[19:27:47.209] [Start] 第一阶段加载用时：63 ms
+[19:27:47.314] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[19:27:47.314] [Start] 第二阶段加载用时：94 ms
+[19:27:47.324] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[19:27:47.490] [Start] 加载 DLL：Json
+[19:27:47.490] [System] 获取资源：Json
+[19:27:47.541] [Java] 缓存中有 3 个可用的 Java
+[19:27:47.565] [System] 窗口已置顶，位置：(448.666666666667, 259.333333333333), 810 x 500
+[19:27:47.569] [Animation] 动画线程开始
+[19:27:47.569] [Start] 第三阶段加载用时：94 ms
+[19:27:47.575] [Launch] Minecraft 文件夹：E:\Minwcraft\.minecraft\
+[19:27:47.619] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[19:27:47.622] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[19:27:47.638] [Minecraft] 启动按钮：Minecraft 版本：E:\Minwcraft\.minecraft\versions\1.16.5\
+[19:27:47.649] [Skin] 载入头像成功：Loader Skin Legacy
+[19:27:47.781] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[19:27:47.783] [Loader] 加载器 PCL2 服务 状态改变：Loading
+[19:27:47.783] [Server] 正在连接到 PCL2 服务器
+[19:27:47.784] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[19:27:47.788] [Net] 获取网络结果：http://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1651318068-57f897e8-0-18dabbff2b22734f4ce376fb7454065a，最大超时 10000
+[19:27:48.002] [Server] 服务器公告：69|252|250|4，无需更新
+[19:27:48.006] [Loader] 加载器 PCL2 服务 状态改变：Finished
+[19:27:48.197] [System] DPI：144，工作区尺寸：2560 x 1528，系统版本：10.0.22000.0
+[19:27:48.340] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[19:27:48.664] [Control] 按下单选按钮：联机
+[19:27:48.696] [Loader] 加载器 联机模块初始化 状态改变：Loading
+[19:27:48.699] [Loader] 加载器 初次启动尝试 状态改变：Loading
+[19:27:48.703] [Control] 切换主要页面：Link, -1
+[19:27:48.711] [Link] 启动联机模块进程
+[19:27:48.818] [Loader] 加载器 网络检测 状态改变：Loading
+[19:27:48.818] [Start] 加载 DLL：STUN
+[19:27:48.818] [System] 获取资源：STUN
+[19:27:48.824] [Link] Windows 防火墙：检测开始
+[19:27:48.862] [Link] 2022/04/30 19:27:48.861	info	Initialization...
+[19:27:49.153] [Link] [INF]Checking NAT type
+[19:27:49.153] [Link] Running TestI: Check UDP Response
+[19:27:49.205] [Link] Windows 防火墙：开启，未在白名单中
+[19:27:49.247] [Link] - Local Address: 192.168.40.239:56024
+[19:27:49.247] [Link] - Mapped Address: 39.144.134.82:19781
+[19:27:49.247] [Link] - Changed Address: 106.14.180.60:3478 
+[19:27:49.247] [Link] 
+[19:27:49.247] [Link] Running TestII: Check Changing IP & Port
+[19:27:49.278] [Control] 普通弹窗：需要管理员权限
+由于你开启了 Windows 防火墙，PCL2 需要获取防火墙通行权限。
+
+若继续，PCL2 将尝试以管理员权限重新启动。
+若拒绝，PCL2 将无法检测你的网络状态，且联机会有更大概率失败。
+[19:27:49.327] [Link] - Receive Changing Response
+[19:27:49.327] [Link] 
+[19:27:49.327] [Link] [INF]Full Cone Nat
+[19:27:49.327] [Link] 
+[19:27:49.327] [Link] 2022/04/30 19:27:49.327	warn	
+[19:27:49.327] [Link] 2022/04/30 19:27:49.327	warn	ID :: 12D3KooWAJ2xF4jx8XXrDkkMsSG4BirFDxWuntnwvnX2qyN7cmne
+[19:27:49.327] [Link] 2022/04/30 19:27:49.327	warn	
+[19:27:49.327] [Link] 2022/04/30 19:27:49.327	info	Initialization completed
+[19:27:49.327] [Link] 2022/04/30 19:27:49.327	info	
+[19:27:49.327] [Link] 2022/04/30 19:27:49.327	info	Command list:
+[19:27:49.327] [Link] 2022/04/30 19:27:49.327	info	link [ID]
+[19:27:49.327] [Link] 2022/04/30 19:27:49.327	info	break [ID]
+[19:27:49.327] [Link] 2022/04/30 19:27:49.327	info	open [PROTO-TCP/UDP] [PORT-NUM]
+[19:27:49.327] [Link] 2022/04/30 19:27:49.327	info	close [PROTO-TCP/UDP] [PORT-NUM]
+[19:27:49.327] [Link] 2022/04/30 19:27:49.327	info	
+[19:27:49.327] [Link] 2022/04/30 19:27:49.327	info	
+[19:27:49.327] [Link] 2022/04/30 19:27:49.327	info	Opening tcp:55555
+[19:27:49.329] [Link] 联机模块启动成功
+[19:27:49.329] [Loader] 加载器 初次启动尝试 状态改变：Finished
+[19:27:49.331] [Loader] 加载器 下载更新文件 状态改变：Loading
+[19:27:49.334] [Loader] 加载器 下载更新文件 状态改变：Finished
+[19:27:49.335] [Loader] 加载器 二次启动尝试 状态改变：Loading
+[19:27:49.337] [Loader] 加载器 二次启动尝试 状态改变：Finished
+[19:27:49.360] [Loader] 加载器 联机模块初始化 状态改变：Finished
+[19:27:50.891] [Control] 按下按钮：继续
+[19:27:50.892] [Control] 普通弹框返回：1
+[19:27:50.892] [Link] Windows 防火墙：尝试提升权限
+[19:27:50.922] [Report] FPS 0, 动画 9, 下载中 0（0 B/s）
+[19:27:52.438] [System] 收到关闭指令
+[19:27:52.438] [Link] Windows 防火墙：无防火墙通行权限
+[19:27:52.438] [Link] 网络检测：Ping 服务器 DNS 解析开始
+[19:27:52.447] [Link] 网络检测：Ping 检测开始（183.232.231.174）
+[19:27:52.498] [Link] 网络检测：Ping 检测成功（50ms）
+[19:27:52.498] [Loader] 加载器 网络检测 状态改变：Finished
+[19:27:52.693] [Link] 已关闭联机模块：21408
+[19:27:52.693] [System] 程序已退出，返回值：Success

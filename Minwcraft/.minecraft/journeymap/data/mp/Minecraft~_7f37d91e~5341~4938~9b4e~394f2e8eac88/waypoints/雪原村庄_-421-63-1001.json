@@ -1,0 +1,22 @@
+{
+  "id": "雪原村庄_-421-63-1001",
+  "name": "雪原村庄",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--13850405-waypoint-icon.png",
+  "x": -421,
+  "y": 63,
+  "z": 1001,
+  "r": 44,
+  "g": 168,
+  "b": 219,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

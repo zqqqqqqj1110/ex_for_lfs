@@ -1,0 +1,22 @@
+{
+  "id": "地狱遗迹_254-67-287",
+  "name": "地狱遗迹",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--5027746-waypoint-icon.png",
+  "x": 254,
+  "y": 67,
+  "z": -287,
+  "r": 179,
+  "g": 72,
+  "b": 94,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

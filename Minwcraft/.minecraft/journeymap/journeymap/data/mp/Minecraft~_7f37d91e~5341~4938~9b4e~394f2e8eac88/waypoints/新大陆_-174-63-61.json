@@ -1,0 +1,22 @@
+{
+  "id": "新大陆_-174-63-61",
+  "name": "新大陆",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--15954618-waypoint-icon.png",
+  "x": -174,
+  "y": 63,
+  "z": -61,
+  "r": 12,
+  "g": 141,
+  "b": 70,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

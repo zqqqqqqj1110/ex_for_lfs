@@ -1,0 +1,22 @@
+{
+  "id": "地狱堡垒_1160-75-2368",
+  "name": "地狱堡垒",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--9561830-waypoint-icon.png",
+  "x": 1160,
+  "y": 75,
+  "z": 2368,
+  "r": 110,
+  "g": 25,
+  "b": 26,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:the_nether"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

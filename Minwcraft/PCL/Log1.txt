@@ -1,0 +1,222 @@
+[19:39:21.259] [Start] 程序版本：Release 2.2.11（250）
+[19:39:21.261] [Start] 识别码：F1EE-04C9-A25E-54B3
+[19:39:21.261] [Start] 程序路径：E:\Minwcraft\
+[19:39:21.266] [Start] 第一阶段加载用时：47 ms
+[19:39:21.369] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[19:39:21.370] [Start] 第二阶段加载用时：109 ms
+[19:39:21.380] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[19:39:21.527] [Start] 加载 DLL：Json
+[19:39:21.527] [System] 获取资源：Json
+[19:39:21.580] [Java] 缓存中有 3 个可用的 Java
+[19:39:21.604] [System] 窗口已置顶，位置：(448.666666666667, 259.333333333333), 810 x 500
+[19:39:21.608] [Animation] 动画线程开始
+[19:39:21.609] [Start] 第三阶段加载用时：93 ms
+[19:39:21.615] [Launch] Minecraft 文件夹：E:\Minwcraft\.minecraft\
+[19:39:21.659] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[19:39:21.663] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[19:39:21.679] [Minecraft] 启动按钮：Minecraft 版本：E:\Minwcraft\.minecraft\versions\1.16.5\
+[19:39:21.690] [Skin] 载入头像成功：Loader Skin Legacy
+[19:39:21.821] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[19:39:21.822] [Loader] 加载器 PCL2 服务 状态改变：Loading
+[19:39:21.822] [Server] 正在连接到 PCL2 服务器
+[19:39:21.824] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[19:39:21.826] [Net] 获取网络结果：http://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1651318762-0b396169-0-6beb2c6b923f1702ca89abb2361089a0，最大超时 10000
+[19:39:22.098] [Server] 服务器公告：69|252|250|4，无需更新
+[19:39:22.101] [Loader] 加载器 PCL2 服务 状态改变：Finished
+[19:39:22.239] [System] DPI：144，工作区尺寸：2560 x 1528，系统版本：10.0.22000.0
+[19:39:22.436] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[19:39:23.221] [Control] 按下单选按钮：联机
+[19:39:23.249] [Loader] 加载器 联机模块初始化 状态改变：Loading
+[19:39:23.251] [Loader] 加载器 初次启动尝试 状态改变：Loading
+[19:39:23.256] [Control] 切换主要页面：Link, -1
+[19:39:23.263] [Link] 启动联机模块进程
+[19:39:23.369] [Loader] 加载器 网络检测 状态改变：Loading
+[19:39:23.370] [Start] 加载 DLL：STUN
+[19:39:23.370] [System] 获取资源：STUN
+[19:39:23.372] [Link] Windows 防火墙：检测开始
+[19:39:23.420] [Link] 2022/04/30 19:39:23.419	info	Initialization...
+[19:39:23.787] [Link] [INF]Checking NAT type
+[19:39:23.787] [Link] Running TestI: Check UDP Response
+[19:39:23.792] [Link] Windows 防火墙：开启，已在白名单中
+[19:39:23.792] [Link] 网络检测：Ping 服务器 DNS 解析开始
+[19:39:23.830] [Link] 网络检测：Ping 检测开始（183.232.231.174）
+[19:39:23.869] [Link] - Local Address: 192.168.40.239:59288
+[19:39:23.869] [Link] - Mapped Address: 39.144.134.82:23798
+[19:39:23.869] [Link] - Changed Address: 106.14.180.60:3478 
+[19:39:23.869] [Link] 
+[19:39:23.869] [Link] Running TestII: Check Changing IP & Port
+[19:39:23.883] [Link] 网络检测：Ping 检测成功（51ms）
+[19:39:23.883] [Link] 网络检测：NAT 服务器 DNS 解析开始（stun.qq.com）
+[19:39:23.949] [Link] - Receive Changing Response
+[19:39:23.949] [Link] 
+[19:39:23.949] [Link] [INF]Full Cone Nat
+[19:39:23.949] [Link] 
+[19:39:23.949] [Link] 2022/04/30 19:39:23.949	warn	
+[19:39:23.949] [Link] 2022/04/30 19:39:23.949	warn	ID :: 12D3KooWAJ2xF4jx8XXrDkkMsSG4BirFDxWuntnwvnX2qyN7cmne
+[19:39:23.949] [Link] 2022/04/30 19:39:23.949	warn	
+[19:39:23.949] [Link] 2022/04/30 19:39:23.949	info	Initialization completed
+[19:39:23.949] [Link] 2022/04/30 19:39:23.949	info	
+[19:39:23.949] [Link] 2022/04/30 19:39:23.949	info	Command list:
+[19:39:23.949] [Link] 2022/04/30 19:39:23.949	info	link [ID]
+[19:39:23.949] [Link] 2022/04/30 19:39:23.949	info	break [ID]
+[19:39:23.949] [Link] 2022/04/30 19:39:23.949	info	open [PROTO-TCP/UDP] [PORT-NUM]
+[19:39:23.949] [Link] 2022/04/30 19:39:23.949	info	close [PROTO-TCP/UDP] [PORT-NUM]
+[19:39:23.949] [Link] 2022/04/30 19:39:23.949	info	
+[19:39:23.949] [Link] 2022/04/30 19:39:23.949	info	
+[19:39:23.949] [Link] 2022/04/30 19:39:23.949	info	Opening tcp:55555
+[19:39:23.951] [Link] 网络检测：NAT 检测开始（106.55.201.64）
+[19:39:23.953] [Link] 联机模块启动成功
+[19:39:23.953] [Loader] 加载器 初次启动尝试 状态改变：Finished
+[19:39:23.955] [Loader] 加载器 下载更新文件 状态改变：Loading
+[19:39:23.957] [Loader] 加载器 下载更新文件 状态改变：Finished
+[19:39:23.958] [Loader] 加载器 二次启动尝试 状态改变：Loading
+[19:39:23.960] [Loader] 加载器 二次启动尝试 状态改变：Finished
+[19:39:23.984] [Loader] 加载器 联机模块初始化 状态改变：Finished
+[19:39:25.403] [Control] 按下按钮：建立连接
+[19:39:25.456] [Control] 输入弹窗：输入对方的连接码
+[19:39:27.235] [Control] 按下按钮：确定
+[19:39:27.237] [Control] 输入弹框返回：KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3zdCjquB7R4KBG2jHtKaVSQ==
+[19:39:27.238] [Link] 新用户对象：玩家 051F9 @ 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:39:27.240] [Link] 尝试建立连接：12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:39:27.241] [Net] 发起网络请求（PUT，http://127.0.0.1:55555/api/link?id=12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3&password=YUNMRBJVQPDPKRHU），最大超时 100000
+[19:39:27.242] [Link] 2022/04/30 19:39:27.242	info	Connecting to 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:39:27.242] [Link] 2022/04/30 19:39:27.242	error	failed to find any peer in table
+[19:39:27.242] [Link] 2022/04/30 19:39:27 "PUT http://127.0.0.1:55555/api/link?id=12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3&password=YUNMRBJVQPDPKRHU HTTP/1.1" from 127.0.0.1:59449 - 200 57B in 0s
+[19:39:27.242] [Link] 未找到对等机，第 1 级重试
+[19:39:30.244] [Net] 发起网络请求（PUT，http://127.0.0.1:55555/api/link?id=12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3&password=YUNMRBJVQPDPKRHU），最大超时 100000
+[19:39:30.245] [Link] 2022/04/30 19:39:30.245	info	Connecting to 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:39:31.016] [Control] 按下图标按钮：BtnTitleMin
+[19:40:33.253] [Link] 2022/04/30 19:40:33.253	error	routing: not found
+[19:40:33.253] [Link] 无法连接到路由，第 5 级重试
+[19:40:33.253] [Link] 2022/04/30 19:40:33 "PUT http://127.0.0.1:55555/api/link?id=12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3&password=YUNMRBJVQPDPKRHU HTTP/1.1" from 127.0.0.1:59451 - 200 43B in 1m3.0082278s
+[19:40:36.262] [Net] 发起网络请求（PUT，http://127.0.0.1:55555/api/link?id=12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3&password=YUNMRBJVQPDPKRHU），最大超时 100000
+[19:40:36.262] [Link] 2022/04/30 19:40:36.262	info	Connecting to 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:40:44.025] [Link] 网络检测：NAT 检测失败，连接服务器超时，正在重试
+[19:40:44.025] [Link] 网络检测：NAT 服务器 DNS 解析开始（stun.ekiga.net）
+[19:40:44.035] [Link] 网络检测：NAT 检测开始（216.93.246.18）
+[19:40:52.873] [Link] 2022/04/30 19:40:52.873	info	connections to 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3's ports are listened to on 127.127.127.0
+[19:40:52.873] [Link] 2022/04/30 19:40:52 "PUT http://127.0.0.1:55555/api/link?id=12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3&password=YUNMRBJVQPDPKRHU HTTP/1.1" from 127.0.0.1:59769 - 200 15B in 16.6112097s
+[19:40:54.324] [Link] 2022/04/30 19:40:54.324	info	'portssub' from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:40:54.324] [Link] 2022/04/30 19:40:54.324	info	Listening tcp 127.127.127.0:55555 -> 55555
+[19:40:54.325] [Link] 2022/04/30 19:40:54.324	info	Listening tcp 127.127.127.0:56747 -> 56747
+[19:40:54.419] [Net] 发起网络请求（PUT，http://127.127.127.0:55555/api/echo?msg=PCL - 1nj6jIFR08I91D6bZcg03GxCHpjGR%2FLV0R3HA6hS4OyTMXFNXS1bve32SMjv%2BknPeG4SXFSwd%2FBeBNcBZbF8NxNqfzIqlLanAgQjoEdRsfKdLGBOnKmKdfCLKPoPLqj8luZm37QZtr%2BmtuLwXi4OWAzlLXmL15pE），最大超时 100000
+[19:40:54.419] [Link] 2022/04/30 19:40:54.419	info	Accepted tcp connection from 127.0.0.1:59839 on 127.127.127.0:55555
+[19:40:56.083] [Link] 2022/04/30 19:40:56.083	info	'portssub' from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:40:56.083] [Link] 加入成功，等待反向请求
+[19:40:56.894] [Link] 2022/04/30 19:40:56.894	info	'dial' from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:40:56.894] [Link] 2022/04/30 19:40:56.894	info	Dialing to tcp:55555 from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:40:56.895] [Link] 2022/04/30 19:40:56.894	info	Closed dial to tcp:55555 from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:40:56.895] [Link] 接收到数据包：{"name":"玩家 051F9","id":"12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3","type":"update","stage":1,"unique":2858716213,"rooms":[{"name":"玩家 051F9 的房间 - 56747","port":56747}]}
+[19:40:56.897] [Link] 2022/04/30 19:40:56 "PUT http://127.127.127.0:55555/api/echo?msg=PCL%20-%20kU%2BB0A5pHhSM5IjvisPxnnlQJBHqjZnm0UGEkJDd6YCtxzav%2BWum4K6O3UTBh01CMK8x%2B7XzJWbidzJdDYemLaPOx3PavCDpQSSEwyesUu5M6UVgJBZiJYnLfZG0kyNIC7nCl6EpAxYqR1FXEpYturLcuy2yL3ERnNM%2Bfh2aFhoH4qCBBB9jo3V4ZXGEsUbwD5Yz8xRpVi7OYSO3lqcxU9%2FaGE%2FHllrKQhcDEJeZxMV1jdZ9A10emk%2B6qSt%2F3Oa7mAOJiGZFoYQ%3D HTTP/1.1" from 127.128.129.130:59843 - 000 0B in 0s
+[19:40:56.901] [Net] 发起网络请求（PUT，http://127.127.127.0:55555/api/echo?msg=PCL - kU%2BB0A5pHhSM5IjvisPxnlmr%2B7n%2BbxQ4jpYF%2BvQxMrmnjeYs92xL1lrDQixGZ8xo%2BB5PE%2BWtDJ1fRPjPhnixqMZBN5HC21%2BWez6c6ws8Ytk3%2BSie58NclLvMjKbmIomR0atwrZNOGP4CrLRQDxWBeMgPS%2BkdZJlNlMPBW5IxAlBse2apCsY91GzP7cXDEFii），最大超时 100000
+[19:40:56.901] [Link] 2022/04/30 19:40:56.901	info	Accepted tcp connection from 127.0.0.1:59844 on 127.127.127.0:55555
+[19:40:56.998] [UI] 弹出提示：已连接到 玩家 051F9！
+[19:40:57.736] [Link] 2022/04/30 19:40:57.736	info	'dial' from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:40:57.736] [Link] 2022/04/30 19:40:57.736	info	Dialing to tcp:55555 from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:40:57.736] [Link] 2022/04/30 19:40:57.736	info	Closed dial to tcp:55555 from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:40:57.738] [Link] 接收到数据包：{"name":"玩家 051F9","id":"12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3","type":"update","stage":3,"unique":2858716213}
+[19:40:57.738] [Link] 2022/04/30 19:40:57 "PUT http://127.127.127.0:55555/api/echo?msg=PCL%20-%20kU%2BB0A5pHhSM5IjvisPxnnlQJBHqjZnm0UGEkJDd6YCtxzav%2BWum4K6O3UTBh01CMK8x%2B7XzJWbidzJdDYemLaPOx3PavCDpQSSEwyesUu5M6UVgJBZiJYnLfZG0kyNIC7nCl6EpAxafXd3NOIJytFqnUbPV4rEf30dOJ8Y55DfvNFGSDlmRIA%3D%3D HTTP/1.1" from 127.128.129.130:59847 - 000 0B in 0s
+[19:41:24.047] [Link] 网络检测：NAT 检测失败，连接服务器超时
+[19:41:24.047] [Loader] 加载器 网络检测 状态改变：Finished
+[19:41:39.366] [Net] 发起网络请求（PUT，http://127.127.127.0:55555/api/echo?msg=PCL - kU%2BB0A5pHhSM5IjvisPxnlmr%2B7n%2BbxQ4jpYF%2BvQxMrmnjeYs92xL1lrDQixGZ8xo%2BB5PE%2BWtDJ1fRPjPhnixqMZBN5HC21%2BWez6c6ws8Ytk3%2BSie58NclLvMjKbmIomR0atwrZNOGP7nqu3g2Op2joe01A6AUHmwoAbWUWWXNSvNccbkVUZj%2BcYayOy42Xnu），最大超时 100000
+[19:41:39.367] [Link] 2022/04/30 19:41:39.367	info	Accepted tcp connection from 127.0.0.1:60022 on 127.127.127.0:55555
+[19:41:39.571] [Link] 2022/04/30 19:41:39.571	info	'dial' from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:41:39.571] [Link] 2022/04/30 19:41:39.571	info	Dialing to tcp:55555 from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:41:39.571] [Link] 2022/04/30 19:41:39.571	info	Closed dial to tcp:55555 from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:41:39.571] [Link] 接收到数据包：{"name":"玩家 051F9","id":"12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3","type":"update","stage":1,"unique":2858759104,"rooms":[{"name":"玩家 051F9 的房间 - 56747","port":56747}]}
+[19:41:39.572] [Link] 2022/04/30 19:41:39 "PUT http://127.127.127.0:55555/api/echo?msg=PCL%20-%20kU%2BB0A5pHhSM5IjvisPxnnlQJBHqjZnm0UGEkJDd6YCtxzav%2BWum4K6O3UTBh01CMK8x%2B7XzJWbidzJdDYemLaPOx3PavCDpQSSEwyesUu5M6UVgJBZiJYnLfZG0kyNIC7nCl6EpAxYqR1FXEpYturLcuy2yL3ERAt2q1T1uv1080rVJD0t8t7bjeFqW0QSGVby%2Fm6t5kfJ0rPsqssPymPgnwg6Wftcaz0oL1RGKcbU98SKKX9ThSs5iiZK9XAHKx1c5kNTv4hs%3D HTTP/1.1" from 127.128.129.130:60026 - 000 0B in 0s
+[19:41:39.572] [Net] 发起网络请求（PUT，http://127.127.127.0:55555/api/echo?msg=PCL - kU%2BB0A5pHhSM5IjvisPxnlmr%2B7n%2BbxQ4jpYF%2BvQxMrmnjeYs92xL1lrDQixGZ8xo%2BB5PE%2BWtDJ1fRPjPhnixqMZBN5HC21%2BWez6c6ws8Ytk3%2BSie58NclLvMjKbmIomR0atwrZNOGP4CrLRQDxWBeMgPS%2BkdZJlNLyXpeEl3Ra%2Bqg8JH2%2F9E7c4ocNHeIG2W），最大超时 100000
+[19:41:39.572] [Link] 2022/04/30 19:41:39.572	info	Accepted tcp connection from 127.0.0.1:60027 on 127.127.127.0:55555
+[19:41:39.877] [Link] 2022/04/30 19:41:39.877	info	'dial' from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:41:39.877] [Link] 2022/04/30 19:41:39.877	info	Dialing to tcp:55555 from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:41:39.877] [Link] 2022/04/30 19:41:39.877	info	Closed dial to tcp:55555 from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:41:39.877] [Link] 接收到数据包：{"name":"玩家 051F9","id":"12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3","type":"update","stage":2,"unique":2154115713,"rooms":[{"name":"玩家 051F9 的房间 - 56747","port":56747}]}
+[19:41:39.877] [Link] 2022/04/30 19:41:39 "PUT http://127.127.127.0:55555/api/echo?msg=PCL%20-%20kU%2BB0A5pHhSM5IjvisPxnnlQJBHqjZnm0UGEkJDd6YCtxzav%2BWum4K6O3UTBh01CMK8x%2B7XzJWbidzJdDYemLaPOx3PavCDpQSSEwyesUu5M6UVgJBZiJYnLfZG0kyNIC7nCl6EpAxZoLseJC99ne96M%2FaSLkfHWQQtQrRxuhNJoUEtpsB34BUhQC06BmYbKPrZ3gLLKGhMuQBoQRLHqXainvvzqwyJ7XCNO3CUfF0iyabs8pxYCeyCD32LpPPxV8Li%2FOtG6kCQ%3D HTTP/1.1" from 127.128.129.130:60028 - 000 0B in 0s
+[19:41:39.878] [Net] 发起网络请求（PUT，http://127.127.127.0:55555/api/echo?msg=PCL - kU%2BB0A5pHhSM5IjvisPxnlmr%2B7n%2BbxQ4jpYF%2BvQxMrmnjeYs92xL1lrDQixGZ8xo%2BB5PE%2BWtDJ1fRPjPhnixqMZBN5HC21%2BWez6c6ws8Ytk3%2BSie58NclLvMjKbmIomR0atwrZNOGP7TbowChDKAICtEp%2FTgov0YeteuKXM81on5b%2BaGruSXBg%3D%3D），最大超时 100000
+[19:41:39.878] [Link] 2022/04/30 19:41:39.878	info	Accepted tcp connection from 127.0.0.1:60029 on 127.127.127.0:55555
+[19:41:40.163] [Link] 2022/04/30 19:41:40.163	info	'dial' from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:41:40.163] [Link] 2022/04/30 19:41:40.163	info	Dialing to tcp:55555 from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:41:40.163] [Link] 2022/04/30 19:41:40.163	info	Closed dial to tcp:55555 from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:41:40.163] [Link] 接收到数据包：{"name":"玩家 051F9","id":"12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3","type":"update","stage":3,"unique":2858759104}
+[19:41:40.163] [Link] 2022/04/30 19:41:40 "PUT http://127.127.127.0:55555/api/echo?msg=PCL%20-%20kU%2BB0A5pHhSM5IjvisPxnnlQJBHqjZnm0UGEkJDd6YCtxzav%2BWum4K6O3UTBh01CMK8x%2B7XzJWbidzJdDYemLaPOx3PavCDpQSSEwyesUu5M6UVgJBZiJYnLfZG0kyNIC7nCl6EpAxafXd3NOIJytFqnUbPV4rEf3oWnHg9IlvRacLbwkl8IaA%3D%3D HTTP/1.1" from 127.128.129.130:60031 - 000 0B in 0s
+[19:42:02.457] [Control] 普通弹窗：加入房间
+请在多人游戏页面点击直接连接，输入 127.127.127.0:56747 以进入服务器！
+[19:42:03.923] [Control] 按下按钮：复制地址
+[19:42:03.924] [Control] 普通弹框返回：1
+[19:42:03.925] [Control] 按下单击列表项：玩家 051F9 的房间 - 56747
+[19:42:03.980] [UI] 弹出提示：已成功复制！
+[19:42:12.773] [Link] 2022/04/30 19:42:12.773	info	Accepted tcp connection from 127.0.0.1:60130 on 127.127.127.0:56747
+[19:42:19.444] [Link] 2022/04/30 19:42:19.444	info	Accepted tcp connection from 127.0.0.1:60136 on 127.127.127.0:56747
+[19:42:24.279] [Link] 2022/04/30 19:42:24.279	info	'dial' from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:42:24.279] [Link] 2022/04/30 19:42:24.279	info	Dialing to tcp:55555 from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:42:24.279] [Link] 2022/04/30 19:42:24.279	info	Closed dial to tcp:55555 from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:42:24.280] [Link] 接收到数据包：{"name":"玩家 051F9","id":"12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3","type":"update","stage":1,"unique":2858803807,"rooms":[{"name":"玩家 051F9 的房间 - 56747","port":56747}]}
+[19:42:24.280] [Link] 2022/04/30 19:42:24 "PUT http://127.127.127.0:55555/api/echo?msg=PCL%20-%20kU%2BB0A5pHhSM5IjvisPxnnlQJBHqjZnm0UGEkJDd6YCtxzav%2BWum4K6O3UTBh01CMK8x%2B7XzJWbidzJdDYemLaPOx3PavCDpQSSEwyesUu5M6UVgJBZiJYnLfZG0kyNIC7nCl6EpAxYqR1FXEpYturLcuy2yL3ERpsGG7ZIh4QAoYKnu6MigYNlYO7cEts%2FQ59S5suQKqBzfaLYgVdHfxMx8OsfMifSLzhy3kHraGK9dmoypEliU4sOoM83yyFb%2FJ%2FdmrpR8qKs%3D HTTP/1.1" from 127.128.129.130:60143 - 000 0B in 0s
+[19:42:24.280] [Net] 发起网络请求（PUT，http://127.127.127.0:55555/api/echo?msg=PCL - kU%2BB0A5pHhSM5IjvisPxnlmr%2B7n%2BbxQ4jpYF%2BvQxMrmnjeYs92xL1lrDQixGZ8xo%2BB5PE%2BWtDJ1fRPjPhnixqMZBN5HC21%2BWez6c6ws8Ytk3%2BSie58NclLvMjKbmIomR0atwrZNOGP4CrLRQDxWBeMgPS%2BkdZJlNkv8dPDoui2M%2FDbO9yjFeWzOZS9hLA7Dp），最大超时 100000
+[19:42:24.281] [Link] 2022/04/30 19:42:24.281	info	Accepted tcp connection from 127.0.0.1:60144 on 127.127.127.0:55555
+[19:42:25.914] [Link] 2022/04/30 19:42:25.914	info	'dial' from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:42:25.914] [Link] 2022/04/30 19:42:25.914	info	Dialing to tcp:55555 from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:42:25.914] [Link] 2022/04/30 19:42:25.914	info	Closed dial to tcp:55555 from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:42:25.915] [Link] 接收到数据包：{"name":"玩家 051F9","id":"12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3","type":"update","stage":3,"unique":2858803807}
+[19:42:25.915] [Link] 2022/04/30 19:42:25 "PUT http://127.127.127.0:55555/api/echo?msg=PCL%20-%20kU%2BB0A5pHhSM5IjvisPxnnlQJBHqjZnm0UGEkJDd6YCtxzav%2BWum4K6O3UTBh01CMK8x%2B7XzJWbidzJdDYemLaPOx3PavCDpQSSEwyesUu5M6UVgJBZiJYnLfZG0kyNIC7nCl6EpAxafXd3NOIJytFqnUbPV4rEfBQMGG%2B4fG5WDw7Sw3FGfNw%3D%3D HTTP/1.1" from 127.128.129.130:60146 - 000 0B in 0s
+[19:42:31.753] [Link] 2022/04/30 19:42:31.753	info	Accepted tcp connection from 127.0.0.1:60157 on 127.127.127.0:56747
+[19:43:10.703] [Link] 2022/04/30 19:43:10.703	info	'dial' from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:43:10.704] [Link] 2022/04/30 19:43:10.703	info	Dialing to tcp:55555 from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:43:10.704] [Link] 2022/04/30 19:43:10.704	info	Closed dial to tcp:55555 from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:43:10.865] [Net] 发起网络请求（PUT，http://127.127.127.0:55555/api/echo?msg=PCL - kU%2BB0A5pHhSM5IjvisPxnlmr%2B7n%2BbxQ4jpYF%2BvQxMrmnjeYs92xL1lrDQixGZ8xo%2BB5PE%2BWtDJ1fRPjPhnixqMZBN5HC21%2BWez6c6ws8Ytk3%2BSie58NclLvMjKbmIomR0atwrZNOGP7nqu3g2Op2joe01A6AUHmwAUpxZ0%2BB9arwgHLP33MuxJMChxQ22bus），最大超时 100000
+[19:43:10.865] [Link] 2022/04/30 19:43:10.865	info	Accepted tcp connection from 127.0.0.1:60219 on 127.127.127.0:55555
+[19:43:11.713] [Link] 接收到数据包：{"name":"玩家 051F9","id":"12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3","type":"update","stage":1,"unique":2858850229,"rooms":[{"name":"玩家 051F9 的房间 - 56747","port":56747}]}
+[19:43:11.714] [Link] 2022/04/30 19:43:11 "PUT http://127.127.127.0:55555/api/echo?msg=PCL%20-%20kU%2BB0A5pHhSM5IjvisPxnnlQJBHqjZnm0UGEkJDd6YCtxzav%2BWum4K6O3UTBh01CMK8x%2B7XzJWbidzJdDYemLaPOx3PavCDpQSSEwyesUu5M6UVgJBZiJYnLfZG0kyNIC7nCl6EpAxYqR1FXEpYturLcuy2yL3ERhXQObm93fOu4IGdwrlQIJPUluZiWEygs1LadyuTjLQ7hCTpIau8O%2BDrkVErbYrXw7AqrxCr8qGPnzgHcjqUsXpi4VSC526wwJ6R24PTzApE%3D HTTP/1.1" from 127.128.129.130:60218 - 000 0B in 0s
+[19:43:11.714] [Net] 发起网络请求（PUT，http://127.127.127.0:55555/api/echo?msg=PCL - kU%2BB0A5pHhSM5IjvisPxnlmr%2B7n%2BbxQ4jpYF%2BvQxMrmnjeYs92xL1lrDQixGZ8xo%2BB5PE%2BWtDJ1fRPjPhnixqMZBN5HC21%2BWez6c6ws8Ytk3%2BSie58NclLvMjKbmIomR0atwrZNOGP4CrLRQDxWBeMgPS%2BkdZJlN5K7B90xfJ3m71MDFTg2DsJDq1ATMCVKT），最大超时 100000
+[19:43:11.714] [Link] 2022/04/30 19:43:11.714	info	Accepted tcp connection from 127.0.0.1:60220 on 127.127.127.0:55555
+[19:43:12.586] [Link] 2022/04/30 19:43:12.586	info	'dial' from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:43:12.586] [Link] 2022/04/30 19:43:12.586	info	'dial' from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:43:12.586] [Link] 2022/04/30 19:43:12.586	info	Dialing to tcp:55555 from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:43:12.586] [Link] 2022/04/30 19:43:12.586	info	Dialing to tcp:55555 from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:43:12.586] [Link] 2022/04/30 19:43:12.586	info	Closed dial to tcp:55555 from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:43:12.586] [Link] 2022/04/30 19:43:12.586	info	Closed dial to tcp:55555 from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:43:12.587] [Link] 接收到数据包：{"name":"玩家 051F9","id":"12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3","type":"update","stage":3,"unique":2858850229}
+[19:43:12.587] [Link] 接收到数据包：{"name":"玩家 051F9","id":"12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3","type":"update","stage":2,"unique":2154207197,"rooms":[{"name":"玩家 051F9 的房间 - 56747","port":56747}]}
+[19:43:12.587] [Link] 2022/04/30 19:43:12 "PUT http://127.127.127.0:55555/api/echo?msg=PCL%20-%20kU%2BB0A5pHhSM5IjvisPxnnlQJBHqjZnm0UGEkJDd6YCtxzav%2BWum4K6O3UTBh01CMK8x%2B7XzJWbidzJdDYemLaPOx3PavCDpQSSEwyesUu5M6UVgJBZiJYnLfZG0kyNIC7nCl6EpAxafXd3NOIJytFqnUbPV4rEfAk%2FK7F0uw4QFxmmvg9fdcg%3D%3D HTTP/1.1" from 127.128.129.130:60222 - 000 0B in 293.8碌s
+[19:43:12.587] [Link] 2022/04/30 19:43:12 "PUT http://127.127.127.0:55555/api/echo?msg=PCL%20-%20kU%2BB0A5pHhSM5IjvisPxnnlQJBHqjZnm0UGEkJDd6YCtxzav%2BWum4K6O3UTBh01CMK8x%2B7XzJWbidzJdDYemLaPOx3PavCDpQSSEwyesUu5M6UVgJBZiJYnLfZG0kyNIC7nCl6EpAxZoLseJC99ne96M%2FaSLkfHWAe1Yhg1z1YwSIyJb6U%2FUWVsR6JH1HbQppxViwBPXsC72iODlDLNf0SlEupNkh4La1RXybKm%2BBzN7jojR97iVWXu4axIuysZ5JHeNmxCUv84%3D HTTP/1.1" from 127.128.129.130:60221 - 000 0B in 0s
+[19:43:12.588] [Net] 发起网络请求（PUT，http://127.127.127.0:55555/api/echo?msg=PCL - kU%2BB0A5pHhSM5IjvisPxnlmr%2B7n%2BbxQ4jpYF%2BvQxMrmnjeYs92xL1lrDQixGZ8xo%2BB5PE%2BWtDJ1fRPjPhnixqMZBN5HC21%2BWez6c6ws8Ytk3%2BSie58NclLvMjKbmIomR0atwrZNOGP7TbowChDKAICtEp%2FTgov0YRvd3zfNUB0jzLZDJhW0k5g%3D%3D），最大超时 100000
+[19:43:12.588] [Link] 2022/04/30 19:43:12.588	info	Accepted tcp connection from 127.0.0.1:60223 on 127.127.127.0:55555
+[19:43:42.990] [Control] 按下图标按钮：BtnTitleClose
+[19:43:42.991] [System] 收到关闭指令
+[19:43:43.245] [Net] 发起网络请求（PUT，http://127.127.127.0:55555/api/echo?msg=PCL - l%2Bu2UdUwem1dcuE8gPoHRbEd%2BudkOrfCzKF5nL0wbeN3yU5KVW78yPwdn9x47wkJBM9cbo5g4KTpSxWiUPCVE41mAhblkiwGJe6BCXWPm8QmCR0D8WoJug%3D%3D），最大超时 1000
+[19:43:43.246] [Link] 2022/04/30 19:43:43.246	info	Accepted tcp connection from 127.0.0.1:60279 on 127.127.127.0:55555
+[19:43:44.261] [Net] 发起网络请求（DELETE，http://127.0.0.1:55555/api/link?id=12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3&password=YUNMRBJVQPDPKRHU），最大超时 1000
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	info	Disconnecting from 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:43:44.263] [Link] 2022/04/30 19:43:44 "DELETE http://127.0.0.1:55555/api/link?id=12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3&password=YUNMRBJVQPDPKRHU HTTP/1.1" from 127.0.0.1:60288 - 200 15B in 0s
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	info	Closed tcp connection from 127.0.0.1:60220 on 127.127.127.0:55555
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	info	Closed tcp connection from 127.0.0.1:60027 on 127.127.127.0:55555
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	info	Closed tcp connection from 127.0.0.1:59839 on 127.127.127.0:55555
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	info	Closed tcp connection from 127.0.0.1:60219 on 127.127.127.0:55555
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	info	Closed tcp connection from 127.0.0.1:60279 on 127.127.127.0:55555
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	info	Closed tcp 127.127.127.0:56747 -> 56747
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	error	dial: accept tcp 127.127.127.0:56747: use of closed network connection
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	info	Closed tcp connection from 127.0.0.1:60029 on 127.127.127.0:55555
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	info	Closed tcp 127.127.127.0:55555 -> 55555
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	error	pipeBothIOsAndClose a<-b: readfrom tcp 127.127.127.0:55555->127.0.0.1:60220: stream reset
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	error	dial: accept tcp 127.127.127.0:55555: use of closed network connection
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	error	pipeBothIOsAndClose a<-b: readfrom tcp 127.127.127.0:55555->127.0.0.1:59839: stream reset
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	error	pipeBothIOsAndClose a<-b: readfrom tcp 127.127.127.0:55555->127.0.0.1:60029: stream reset
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	error	pipeBothIOsAndClose a<-b: readfrom tcp 127.127.127.0:55555->127.0.0.1:60219: stream reset
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	error	pipeBothIOsAndClose a<-b: readfrom tcp 127.127.127.0:55555->127.0.0.1:60279: stream reset
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	info	Closed tcp connection from 127.0.0.1:59844 on 127.127.127.0:55555
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	error	pipeBothIOsAndClose a<-b: readfrom tcp 127.127.127.0:55555->127.0.0.1:60027: stream reset
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	info	Closed tcp connection from 127.0.0.1:60022 on 127.127.127.0:55555
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	error	pipeBothIOsAndClose a<-b: readfrom tcp 127.127.127.0:55555->127.0.0.1:60223: stream reset
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	info	Closed tcp connection from 127.0.0.1:60223 on 127.127.127.0:55555
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	error	pipeBothIOsAndClose a<-b: readfrom tcp 127.127.127.0:55555->127.0.0.1:59844: stream reset
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	error	pipeBothIOsAndClose a<-b: readfrom tcp 127.127.127.0:55555->127.0.0.1:60022: stream reset
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	info	Closed tcp connection from 127.0.0.1:60144 on 127.127.127.0:55555
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	error	pipeBothIOsAndClose a<-b: readfrom tcp 127.127.127.0:55555->127.0.0.1:60144: stream reset
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	info	Closed tcp connection from 127.0.0.1:60157 on 127.127.127.0:56747
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	info	Closed tcp connection from 127.0.0.1:60136 on 127.127.127.0:56747
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	info	Closed tcp connection from 127.0.0.1:60130 on 127.127.127.0:56747
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	error	pipeBothIOsAndClose a<-b: readfrom tcp 127.127.127.0:56747->127.0.0.1:60157: stream reset
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	error	pipeBothIOsAndClose a<-b: readfrom tcp 127.127.127.0:56747->127.0.0.1:60130: stream reset
+[19:43:44.263] [Link] 2022/04/30 19:43:44.263	error	pipeBothIOsAndClose a<-b: readfrom tcp 127.127.127.0:56747->127.0.0.1:60136: stream reset
+[19:43:44.269] [Link] 已关闭联机模块：18348
+[19:43:44.269] [System] 程序已退出，返回值：Success

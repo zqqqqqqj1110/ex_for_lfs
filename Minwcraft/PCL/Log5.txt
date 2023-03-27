@@ -1,0 +1,156 @@
+[19:27:25.898] [Start] 程序版本：Release 2.2.11（250）
+[19:27:25.900] [Start] 识别码：F1EE-04C9-A25E-54B3
+[19:27:25.900] [Start] 程序路径：E:\Minwcraft\
+[19:27:25.905] [Start] 第一阶段加载用时：78 ms
+[19:27:26.031] [Start] 版本号从 0 升高到 250
+[19:27:26.032] [Start] 最高版本号从 0 升高到 250
+[19:27:26.038] [Start] 已解除帮助页面的隐藏
+[19:27:26.081] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[19:27:26.081] [Start] 第二阶段加载用时：156 ms
+[19:27:26.092] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[19:27:26.374] [Start] 加载 DLL：Json
+[19:27:26.374] [System] 获取资源：Json
+[19:27:26.378] [Java] 要求 Java 列表缓存更新
+[19:27:26.378] [Java] 初始化未找到可用的 Java，将自动触发搜索
+[19:27:26.378] [Loader] 加载器 Java Search Loader 状态改变：Loading
+[19:27:26.385] [Java] 开始部分遍历查找：C:\
+[19:27:26.404] [System] 窗口已置顶，位置：(448.666666666667, 259.333333333333), 810 x 500
+[19:27:26.411] [Animation] 动画线程开始
+[19:27:26.411] [Start] 第三阶段加载用时：47 ms
+[19:27:26.415] [Java] 遍历查找 Java 时遭遇无权限的文件夹：C:\ProgramData\Microsoft\Network\Downloader
+[19:27:26.419] [Java] 开始部分遍历查找：D:\
+[19:27:26.420] [Java] 开始部分遍历查找：E:\
+[19:27:26.421] [Java] 开始部分遍历查找：F:\
+[19:27:26.422] [Launch] 没有已储存的 Minecraft 文件夹
+[19:27:26.422] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[19:27:26.425] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[19:27:26.430] [Java] 开始部分遍历查找：G:\
+[19:27:26.434] [Java] 开始部分遍历查找：C:\Users\Lenovo\AppData\Roaming\
+[19:27:26.439] [Setup] 当前选择的 Minecraft 文件夹：E:\Minwcraft\.minecraft\
+[19:27:26.439] [Launch] Minecraft 文件夹：E:\Minwcraft\.minecraft\
+[19:27:26.439] [Launch] Minecraft 版本无效，没有有效版本
+[19:27:26.444] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[19:27:26.447] [Minecraft] 文件夹列表变更，重载所有版本
+[19:27:26.454] [Java] 开始完全遍历查找：E:\Minwcraft\
+[19:27:26.454] [Java] 开始完全遍历查找：E:\Minwcraft\.minecraft\
+[19:27:26.458] [Java] 位于 F:\jdk-11\bin\ 的 Java 不含符号链接
+[19:27:26.458] [Java] 位于 C:\MCLDownload\ext\jre-v64-170307\jre7\bin\ 的 Java 不含符号链接
+[19:27:26.459] [Java] 位于 C:\MCLDownload\ext\jre-v64-170307\jre8\bin\ 的 Java 不含符号链接
+[19:27:26.459] [Java] 位于 F:\jdk-11\bin\ 的 Java 不含二重引用
+[19:27:26.459] [Java] 位于 C:\MCLDownload\ext\jre-v64-170307\jre7\bin\ 的 Java 不含二重引用
+[19:27:26.459] [Java] 位于 C:\MCLDownload\ext\jre-v64-170307\jre8\bin\ 的 Java 不含二重引用
+[19:27:26.482] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[19:27:26.486] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[19:27:26.496] [Java] 开始确认列表 Java 状态，共 3 项
+[19:27:26.498] [System] 执行外部命令并等待返回结果：F:\jdk-11\bin\java.exe -version
+[19:27:26.500] [System] 执行外部命令并等待返回结果：C:\MCLDownload\ext\jre-v64-170307\jre7\bin\java.exe -version
+[19:27:26.500] [System] 执行外部命令并等待返回结果：C:\MCLDownload\ext\jre-v64-170307\jre8\bin\java.exe -version
+[19:27:26.524] [Setup] 版本隔离使用全局设置：1.16.5
+[19:27:26.527] [Skin] 载入头像成功：Loader Skin Legacy
+[19:27:26.540] [Control] 普通弹窗：协议授权
+在使用 PCL2 前，请同意 PCL2 的用户协议与免责声明。
+[19:27:26.542] [Setup] 当前选择的 Minecraft 版本：1.16.5
+[19:27:26.543] [Launch] 自动选择 Minecraft 版本：E:\Minwcraft\.minecraft\versions\1.16.5\
+[19:27:26.543] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[19:27:26.543] [Minecraft] 启动按钮：正在加载 Minecraft 版本
+[19:27:26.547] [Launch] 自动选择 Minecraft 版本：E:\Minwcraft\.minecraft\versions\1.16.5\
+[19:27:26.614] [Java] JDK 11 (11.0.0)，64 位：F:\jdk-11\bin\
+[19:27:26.614] [Minecraft] 启动按钮：Minecraft 版本：E:\Minwcraft\.minecraft\versions\1.16.5\
+[19:27:26.945] [Java] Java 7 (7.0.0)，64 位：C:\MCLDownload\ext\jre-v64-170307\jre7\bin\
+[19:27:26.993] [Java] Java 8 (8.0.60)，64 位：C:\MCLDownload\ext\jre-v64-170307\jre8\bin\
+[19:27:26.996] [Java] Java 搜索完成，发现 3 个 Java
+[19:27:26.996] [Loader] 加载器 Java Search Loader 状态改变：Finished
+[19:27:27.025] [System] DPI：144，工作区尺寸：2560 x 1528，系统版本：10.0.22000.0
+[19:27:28.655] [Control] 按下按钮：同意
+[19:27:28.656] [Control] 普通弹框返回：1
+[19:27:28.870] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[19:27:28.871] [Loader] 加载器 PCL2 服务 状态改变：Loading
+[19:27:28.871] [Server] 正在连接到 PCL2 服务器
+[19:27:28.874] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[19:27:28.875] [Net] 获取网络结果：http://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1651318049-5e0917ad-0-fc1d704c132f2d8401f0b0e5a2b158cb，最大超时 10000
+[19:27:29.117] [Server] 服务器公告：69|252|250|4，本地公告编号：0，需更新
+[19:27:29.120] [Loader] 加载器 源码获取 120# 状态改变：Loading
+[19:27:29.133] [Download] -1619160048_119 123#：开始，起始点 0，http://pcl2-server-1253424809.file.myqcloud.com/minecraft/download.json?sign=1651318049-6e37489f-0-1dcaf56240387e4cd5f2ef3934028162
+[19:27:29.256] [Download] -1619160048_119：文件大小 5908 B（5.77 K）
+[19:27:29.261] [Download] -1619160048_119：已完成，剩余文件 0
+[19:27:29.262] [Loader] 加载器 源码获取 120# 状态改变：Finished
+[19:27:29.269] [Net] 获取网络结果：http://pcl2-server-1253424809.file.myqcloud.com/notice.json?sign=1651318049-3cbd8216-0-e438637a0ec97c13d57f015ff829db73，最大超时 10000
+[19:27:29.378] [Loader] 加载器 PCL2 服务 状态改变：Finished
+[19:27:29.406] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[19:27:31.435] [Control] 按下单选按钮：联机
+[19:27:31.470] [Loader] 加载器 联机模块初始化 状态改变：Loading
+[19:27:31.472] [Loader] 加载器 初次启动尝试 状态改变：Loading
+[19:27:31.476] [Control] 切换主要页面：Link, -1
+[19:27:31.481] [Link] 设置版本强制要求联机模块更新
+[19:27:31.481] [Link] 需要下载联机模块
+[19:27:31.482] [Loader] 加载器 初次启动尝试 状态改变：Finished
+[19:27:31.483] [Loader] 加载器 下载更新文件 状态改变：Loading
+[19:27:31.493] [Download] 联机模块.zip 167#：开始，起始点 0，https://pcl2-server-1253424809.file.myqcloud.com/link/ioi_v2_x64.zip?sign=1651318051-5c4a1c8b-0-47bf9e89433b74818a67cb187192d3c6
+[19:27:31.590] [Loader] 加载器 网络检测 状态改变：Loading
+[19:27:31.590] [Start] 加载 DLL：STUN
+[19:27:31.590] [System] 获取资源：STUN
+[19:27:31.592] [Link] Windows 防火墙：检测开始
+[19:27:31.871] [Download] 联机模块.zip：文件大小 7136074 B（6.81 M）
+[19:27:31.957] [Link] Windows 防火墙：开启，未在白名单中
+[19:27:31.975] [Control] 普通弹窗：需要管理员权限
+由于你开启了 Windows 防火墙，PCL2 需要获取防火墙通行权限。
+
+若继续，PCL2 将尝试以管理员权限重新启动。
+若拒绝，PCL2 将无法检测你的网络状态，且联机会有更大概率失败。
+[19:27:33.682] [Control] 按下按钮：继续
+[19:27:33.682] [Control] 普通弹框返回：1
+[19:27:33.682] [Link] Windows 防火墙：尝试提升权限
+[19:27:33.936] [Download] 速度下限已提升到 1.31 M
+[19:27:34.450] [Download] 速度下限已提升到 1.39 M
+[19:27:34.962] [Download] 速度下限已提升到 1.64 M
+[19:27:35.122] 以管理员权限运行程序失败：操作已被用户取消。
+   在 System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   在 System.Diagnostics.Process.Start()
+   在 System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   在 PCL.ModBase.RerunAsAdmin(String Argument)
+错误类型：System.ComponentModel.Win32Exception
+[19:27:35.123] [Link] Windows 防火墙：无防火墙通行权限
+[19:27:35.123] [Link] 网络检测：Ping 服务器 DNS 解析开始
+[19:27:35.135] [Download] 速度下限已提升到 1.8 M
+[19:27:35.167] [Link] 网络检测：Ping 检测开始（183.232.231.174）
+[19:27:35.169] [UI] 弹出提示：获取管理员权限失败，请尝试右键 PCL2，选择 “以管理员身份运行”，然后再进入联机页面！
+[19:27:35.216] [Link] 网络检测：Ping 检测成功（48ms）
+[19:27:35.216] [Loader] 加载器 网络检测 状态改变：Finished
+[19:27:35.647] [Download] 速度下限已提升到 1.89 M
+[19:27:35.825] [Download] 联机模块.zip：已完成，剩余文件 0
+[19:27:35.825] [Loader] 加载器 下载更新文件 状态改变：Finished
+[19:27:35.826] [Loader] 加载器 二次启动尝试 状态改变：Loading
+[19:27:35.830] [Link] 解压联机模块以完成下载
+[19:27:35.927] [Link] 启动联机模块进程
+[19:27:36.225] [Link] 2022/04/30 19:27:36.223	info	Initialization...
+[19:27:36.597] [Link] [INF]Checking NAT type
+[19:27:36.597] [Link] Running TestI: Check UDP Response
+[19:27:36.667] [Link] - Local Address: 192.168.40.239:55307
+[19:27:36.667] [Link] - Mapped Address: 39.144.134.82:19344
+[19:27:36.667] [Link] - Changed Address: 106.14.180.60:3478 
+[19:27:36.667] [Link] 
+[19:27:36.667] [Link] Running TestII: Check Changing IP & Port
+[19:27:36.739] [Link] - Receive Changing Response
+[19:27:36.739] [Link] 
+[19:27:36.739] [Link] [INF]Full Cone Nat
+[19:27:36.739] [Link] 
+[19:27:36.739] [Link] 2022/04/30 19:27:36.739	warn	
+[19:27:36.739] [Link] 2022/04/30 19:27:36.739	warn	ID :: 12D3KooWAJ2xF4jx8XXrDkkMsSG4BirFDxWuntnwvnX2qyN7cmne
+[19:27:36.739] [Link] 2022/04/30 19:27:36.739	warn	
+[19:27:36.739] [Link] 2022/04/30 19:27:36.739	info	Initialization completed
+[19:27:36.739] [Link] 2022/04/30 19:27:36.739	info	
+[19:27:36.739] [Link] 2022/04/30 19:27:36.739	info	Command list:
+[19:27:36.739] [Link] 2022/04/30 19:27:36.739	info	link [ID]
+[19:27:36.739] [Link] 2022/04/30 19:27:36.739	info	break [ID]
+[19:27:36.739] [Link] 2022/04/30 19:27:36.739	info	open [PROTO-TCP/UDP] [PORT-NUM]
+[19:27:36.739] [Link] 2022/04/30 19:27:36.739	info	close [PROTO-TCP/UDP] [PORT-NUM]
+[19:27:36.739] [Link] 2022/04/30 19:27:36.739	info	
+[19:27:36.739] [Link] 2022/04/30 19:27:36.739	info	
+[19:27:36.739] [Link] 2022/04/30 19:27:36.739	info	Opening tcp:55555
+[19:27:36.748] [Link] 联机模块启动成功
+[19:27:36.748] [Loader] 加载器 二次启动尝试 状态改变：Finished
+[19:27:36.779] [Loader] 加载器 联机模块初始化 状态改变：Finished
+[19:27:45.393] [Control] 按下图标按钮：BtnTitleClose
+[19:27:45.394] [System] 收到关闭指令
+[19:27:45.654] [Link] 已关闭联机模块：17612
+[19:27:45.654] [System] 程序已退出，返回值：Success

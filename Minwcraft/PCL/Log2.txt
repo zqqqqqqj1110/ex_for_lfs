@@ -1,0 +1,142 @@
+[19:37:39.020] [Start] 程序版本：Release 2.2.11（250）
+[19:37:39.021] [Start] 识别码：F1EE-04C9-A25E-54B3
+[19:37:39.021] [Start] 程序路径：E:\Minwcraft\
+[19:37:39.027] [Start] 第一阶段加载用时：62 ms
+[19:37:39.130] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[19:37:39.131] [Start] 第二阶段加载用时：110 ms
+[19:37:39.141] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[19:37:39.309] [Start] 加载 DLL：Json
+[19:37:39.309] [System] 获取资源：Json
+[19:37:39.360] [Java] 缓存中有 3 个可用的 Java
+[19:37:39.385] [System] 窗口已置顶，位置：(448.666666666667, 259.333333333333), 810 x 500
+[19:37:39.389] [Animation] 动画线程开始
+[19:37:39.390] [Start] 第三阶段加载用时：94 ms
+[19:37:39.396] [Launch] Minecraft 文件夹：E:\Minwcraft\.minecraft\
+[19:37:39.440] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[19:37:39.444] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[19:37:39.460] [Minecraft] 启动按钮：Minecraft 版本：E:\Minwcraft\.minecraft\versions\1.16.5\
+[19:37:39.470] [Skin] 载入头像成功：Loader Skin Legacy
+[19:37:39.604] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[19:37:39.606] [Loader] 加载器 PCL2 服务 状态改变：Loading
+[19:37:39.607] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[19:37:39.607] [Server] 正在连接到 PCL2 服务器
+[19:37:39.611] [Net] 获取网络结果：http://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1651318660-32130ecc-0-10bdcda40983e1ed1e0ab2b89683309f，最大超时 10000
+[19:37:39.754] [Server] 服务器公告：69|252|250|4，无需更新
+[19:37:39.758] [Loader] 加载器 PCL2 服务 状态改变：Finished
+[19:37:40.012] [System] DPI：144，工作区尺寸：2560 x 1528，系统版本：10.0.22000.0
+[19:37:40.446] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[19:37:42.147] [Control] 按下单选按钮：联机
+[19:37:42.176] [Loader] 加载器 联机模块初始化 状态改变：Loading
+[19:37:42.178] [Loader] 加载器 初次启动尝试 状态改变：Loading
+[19:37:42.183] [Control] 切换主要页面：Link, -1
+[19:37:42.192] [Link] 启动联机模块进程
+[19:37:42.294] [Loader] 加载器 网络检测 状态改变：Loading
+[19:37:42.294] [Start] 加载 DLL：STUN
+[19:37:42.294] [System] 获取资源：STUN
+[19:37:42.296] [Link] Windows 防火墙：检测开始
+[19:37:42.342] [Link] 2022/04/30 19:37:42.341	info	Initialization...
+[19:37:42.726] [Link] Windows 防火墙：开启，已在白名单中
+[19:37:42.726] [Link] 网络检测：Ping 服务器 DNS 解析开始
+[19:37:42.729] [Link] 网络检测：Ping 检测开始（183.232.231.174）
+[19:37:42.747] [Link] [INF]Checking NAT type
+[19:37:42.747] [Link] Running TestI: Check UDP Response
+[19:37:42.774] [Link] 网络检测：Ping 检测成功（43ms）
+[19:37:42.774] [Link] 网络检测：NAT 服务器 DNS 解析开始（stun.qq.com）
+[19:37:42.804] [Link] 网络检测：NAT 检测开始（106.55.201.64）
+[19:37:42.841] [Link] - Local Address: 192.168.40.239:52504
+[19:37:42.841] [Link] - Mapped Address: 39.144.134.82:23748
+[19:37:42.841] [Link] - Changed Address: 106.14.180.60:3478 
+[19:37:42.841] [Link] 
+[19:37:42.841] [Link] Running TestII: Check Changing IP & Port
+[19:37:42.922] [Link] - Receive Changing Response
+[19:37:42.922] [Link] 
+[19:37:42.922] [Link] [INF]Full Cone Nat
+[19:37:42.922] [Link] 
+[19:37:42.922] [Link] 2022/04/30 19:37:42.922	warn	
+[19:37:42.922] [Link] 2022/04/30 19:37:42.922	warn	ID :: 12D3KooWAJ2xF4jx8XXrDkkMsSG4BirFDxWuntnwvnX2qyN7cmne
+[19:37:42.922] [Link] 2022/04/30 19:37:42.922	warn	
+[19:37:42.922] [Link] 2022/04/30 19:37:42.922	info	Initialization completed
+[19:37:42.922] [Link] 2022/04/30 19:37:42.922	info	
+[19:37:42.922] [Link] 2022/04/30 19:37:42.922	info	Command list:
+[19:37:42.922] [Link] 2022/04/30 19:37:42.922	info	link [ID]
+[19:37:42.922] [Link] 2022/04/30 19:37:42.922	info	break [ID]
+[19:37:42.922] [Link] 2022/04/30 19:37:42.922	info	open [PROTO-TCP/UDP] [PORT-NUM]
+[19:37:42.922] [Link] 2022/04/30 19:37:42.922	info	Opening tcp:55555
+[19:37:42.922] [Link] 2022/04/30 19:37:42.922	info	close [PROTO-TCP/UDP] [PORT-NUM]
+[19:37:42.922] [Link] 2022/04/30 19:37:42.922	info	
+[19:37:42.922] [Link] 2022/04/30 19:37:42.922	info	
+[19:37:42.936] [Link] 联机模块启动成功
+[19:37:42.936] [Loader] 加载器 初次启动尝试 状态改变：Finished
+[19:37:42.938] [Loader] 加载器 下载更新文件 状态改变：Loading
+[19:37:42.940] [Loader] 加载器 下载更新文件 状态改变：Finished
+[19:37:42.942] [Loader] 加载器 二次启动尝试 状态改变：Loading
+[19:37:42.944] [Loader] 加载器 二次启动尝试 状态改变：Finished
+[19:37:42.967] [Loader] 加载器 联机模块初始化 状态改变：Finished
+[19:37:44.340] [Control] 按下按钮：建立连接
+[19:37:44.386] [Control] 输入弹窗：输入对方的连接码
+[19:37:46.508] [Control] 按下按钮：确定
+[19:37:46.509] [Control] 输入弹框返回：KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3zdCjquB7R4KBG2jHtKaVSQ==
+[19:37:46.511] [Link] 新用户对象：玩家 051F9 @ 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:37:46.512] [Link] 尝试建立连接：12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:37:46.514] [Net] 发起网络请求（PUT，http://127.0.0.1:55555/api/link?id=12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3&password=TRNUVKVUMITJHPSI），最大超时 100000
+[19:37:46.515] [Link] 2022/04/30 19:37:46.515	info	Connecting to 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:38:13.037] [Link] 2022/04/30 19:38:13.037	error	routing: not found
+[19:38:13.038] [Link] 无法连接到路由，第 4 级重试
+[19:38:13.038] [Link] 2022/04/30 19:38:13 "PUT http://127.0.0.1:55555/api/link?id=12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3&password=TRNUVKVUMITJHPSI HTTP/1.1" from 127.0.0.1:59083 - 200 43B in 26.5224678s
+[19:38:16.048] [Net] 发起网络请求（PUT，http://127.0.0.1:55555/api/link?id=12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3&password=TRNUVKVUMITJHPSI），最大超时 100000
+[19:38:16.048] [Link] 2022/04/30 19:38:16.048	info	Connecting to 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:38:37.078] [Link] 2022/04/30 19:38:37.078	error	failed to dial 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3: all dials failed
+[19:38:37.078] [Link]   * [/ip4/127.0.0.1/tcp/55841/ws] dial tcp 127.0.0.1:55841: connectex: No connection could be made because the target machine actively refused it.
+[19:38:37.078] [Link]   * [/ip6/::1/tcp/55842/ws] dial tcp [::1]:55842: connectex: No connection could be made because the target machine actively refused it.
+[19:38:37.078] [Link]   * [/ip4/127.0.0.1/tcp/55839] dial tcp4 127.0.0.1:55839: connectex: No connection could be made because the target machine actively refused it.
+[19:38:37.078] [Link]   * [/ip6/::1/tcp/55840] dial tcp6 [::1]:55840: connectex: No connection could be made because the target machine actively refused it.
+[19:38:37.078] [Link]   * [/ip4/10.70.118.144/udp/61426/quic] context deadline exceeded
+[19:38:37.078] [Link]   * [/ip4/10.70.118.144/tcp/55839] dial tcp4 0.0.0.0:59069->10.70.118.144:55839: i/o timeout
+[19:38:37.078] [Link]   * [/ip4/180.136.91.13/tcp/4251] dial tcp4 0.0.0.0:59069->180.136.91.13:4251: i/o timeout
+[19:38:37.078] [Link]   * [/ip4/180.136.91.13/tcp/4037] dial tcp4 0.0.0.0:59069->180.136.91.13:4037: i/o timeout
+[19:38:37.079] [Link]   * [/ip4/180.136.91.13/tcp/4259] dial tcp4 0.0.0.0:59069->180.136.91.13:4259: i/o timeout
+[19:38:37.079] [Link]   * [/ip4/180.136.91.13/udp/3972/quic] NO_ERROR: Handshake did not complete in time
+[19:38:37.079] [Link]   * [/ip4/127.0.0.1/udp/61426/quic] NO_ERROR: Handshake did not complete in time
+[19:38:37.079] [Link]   * [/ip6/::1/udp/61427/quic] NO_ERROR: Handshake did not complete in time
+[19:38:37.079] [Link]   * [/ip4/180.136.91.13/tcp/4270] dial tcp4 0.0.0.0:59069->180.136.91.13:4270: i/o timeout
+[19:38:37.079] [Link]   * [/ip4/180.136.91.13/tcp/3990] dial tcp4 0.0.0.0:59069->180.136.91.13:3990: i/o timeout
+[19:38:37.079] [Link]   * [/ip4/180.136.91.13/tcp/4005] dial tcp4 0.0.0.0:59069->180.136.91.13:4005: i/o timeout
+[19:38:37.079] [Link]   * [/ip4/180.136.91.13/tcp/4009] dial tcp4 0.0.0.0:59069->180.136.91.13:4009: i/o timeout
+[19:38:37.079] [Link]     ... skipping 2 errors ...
+[19:38:37.079] [Link] 2022/04/30 19:38:37 "PUT http://127.0.0.1:55555/api/link?id=12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3&password=TRNUVKVUMITJHPSI HTTP/1.1" from 127.0.0.1:59293 - 200 1740B in 21.0296742s
+[19:38:37.079] [Link] 连接失败，第 12 级重试
+[19:38:40.086] [Net] 发起网络请求（PUT，http://127.0.0.1:55555/api/link?id=12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3&password=TRNUVKVUMITJHPSI），最大超时 100000
+[19:38:40.087] [Link] 2022/04/30 19:38:40.087	info	Connecting to 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:38:44.973] [Report] FPS 0, 动画 8, 下载中 0（0 B/s）
+[19:39:01.124] [Link] 2022/04/30 19:39:01.124	error	failed to dial 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3: all dials failed
+[19:39:01.124] [Link]   * [/ip6/::1/tcp/55842/ws] dial tcp [::1]:55842: connectex: No connection could be made because the target machine actively refused it.
+[19:39:01.124] [Link]   * [/ip6/::1/tcp/55840] dial tcp6 [::1]:55840: connectex: No connection could be made because the target machine actively refused it.
+[19:39:01.124] [Link]   * [/ip4/10.70.118.144/tcp/55839] dial tcp4 0.0.0.0:59069->10.70.118.144:55839: i/o timeout
+[19:39:01.124] [Link]   * [/ip4/10.70.118.144/udp/61426/quic] context deadline exceeded
+[19:39:01.124] [Link]   * [/ip4/127.0.0.1/tcp/55841/ws] dial tcp 127.0.0.1:55841: connectex: No connection could be made because the target machine actively refused it.
+[19:39:01.124] [Link]   * [/ip4/127.0.0.1/tcp/55839] dial tcp4 127.0.0.1:55839: connectex: No connection could be made because the target machine actively refused it.
+[19:39:01.124] [Link]   * [/ip4/127.0.0.1/udp/61426/quic] NO_ERROR: Handshake did not complete in time
+[19:39:01.124] [Link]   * [/ip4/180.136.91.13/udp/3972/quic] NO_ERROR: Handshake did not complete in time
+[19:39:01.124] [Link] 连接失败，第 20 级重试
+[19:39:01.124] [Link]   * [/ip4/180.136.91.13/tcp/3990] dial tcp4 0.0.0.0:59069->180.136.91.13:3990: i/o timeout
+[19:39:01.124] [Link]   * [/ip6/::1/udp/61427/quic] NO_ERROR: Handshake did not complete in time
+[19:39:01.124] [Link]   * [/ip4/180.136.91.13/tcp/4026] dial tcp4 0.0.0.0:59069->180.136.91.13:4026: i/o timeout
+[19:39:01.124] [Link]   * [/ip4/180.136.91.13/tcp/4009] dial tcp4 0.0.0.0:59069->180.136.91.13:4009: i/o timeout
+[19:39:01.124] [Link]   * [/ip4/180.136.91.13/tcp/4037] dial tcp4 0.0.0.0:59069->180.136.91.13:4037: i/o timeout
+[19:39:01.124] [Link]   * [/ip4/180.136.91.13/tcp/4251] dial tcp4 0.0.0.0:59069->180.136.91.13:4251: i/o timeout
+[19:39:01.124] [Link]   * [/ip4/180.136.91.13/tcp/4005] dial tcp4 0.0.0.0:59069->180.136.91.13:4005: i/o timeout
+[19:39:01.124] [Link]   * [/ip4/180.136.91.13/tcp/4270] dial tcp4 0.0.0.0:59069->180.136.91.13:4270: i/o timeout
+[19:39:01.124] [Link]     ... skipping 2 errors ...
+[19:39:01.124] [Link] 2022/04/30 19:39:01 "PUT http://127.0.0.1:55555/api/link?id=12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3&password=TRNUVKVUMITJHPSI HTTP/1.1" from 127.0.0.1:59351 - 200 1740B in 21.0372889s
+[19:39:02.878] [Link] 网络检测：NAT 检测失败，连接服务器超时，正在重试
+[19:39:02.878] [Link] 网络检测：NAT 服务器 DNS 解析开始（stun.ekiga.net）
+[19:39:02.882] [Link] 网络检测：NAT 检测开始（216.93.246.18）
+[19:39:04.128] [Net] 发起网络请求（PUT，http://127.0.0.1:55555/api/link?id=12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3&password=TRNUVKVUMITJHPSI），最大超时 100000
+[19:39:04.128] [Link] 2022/04/30 19:39:04.128	info	Connecting to 12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3
+[19:39:08.513] [Control] 按下图标按钮：BtnTitleClose
+[19:39:08.515] [System] 收到关闭指令
+[19:39:08.785] [Net] 发起网络请求（DELETE，http://127.0.0.1:55555/api/link?id=12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3&password=TRNUVKVUMITJHPSI），最大超时 1000
+[19:39:08.787] [Link] 2022/04/30 19:39:08.787	error	You are not connected to a specified id
+[19:39:08.787] [Link] 2022/04/30 19:39:08 "DELETE http://127.0.0.1:55555/api/link?id=12D3KooWAUJMvsHQCoVsC97JAyy4kyrBXPr3rs8wCNE2LsgQ12d3&password=TRNUVKVUMITJHPSI HTTP/1.1" from 127.0.0.1:59431 - 200 16B in 0s
+[19:39:08.790] [Link] 已关闭联机模块：12772
+[19:39:08.791] [System] 程序已退出，返回值：Success

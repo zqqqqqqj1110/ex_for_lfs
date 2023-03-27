@@ -1,0 +1,22 @@
+{
+  "id": "矿点1_-42-65-218",
+  "name": "矿点1",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--12248709-waypoint-icon.png",
+  "x": -42,
+  "y": 65,
+  "z": -218,
+  "r": 69,
+  "g": 25,
+  "b": 123,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}
