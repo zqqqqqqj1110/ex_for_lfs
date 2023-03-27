@@ -24,3 +24,10 @@ git push origin master    #最后一步上传！！！
 
 3. （有可能没有？？？谁知道呢.jpg）
 网络可能会出现问题，导致上传失败，如下图所示：
+![失败照片](./fail_picture.png)
+那该咋办呢？原因是网络问题
+从这重新开始再来一遍
+```
+git add *
+git commit -m "xxx"
+```
