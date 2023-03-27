@@ -5,7 +5,9 @@
 ```http://git-lfs.github.com/```
 tips：必须下载在git的路径中
 #### 路径：
-```.\Git\bin```
+```
+.\Git\bin
+```
 2. 上传过程：
 ```
 git init  # 初始化
